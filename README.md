@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Eight Sleep Technical Assignment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Clone the repo, then run:
+
+## `npm install`
 
 In the project directory, you can run:
 

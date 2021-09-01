@@ -1,0 +1,28 @@
+.piechart-cell {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-rows: 40px 20px 200px;
+}
+
+.hours {
+  justify-self: center;
+}
+
+.date {
+  justify-self: center;
+ }
+
+.pie {
+  max-width: 200px;
+  max-height: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  margin-left: 12px;
+}
+
+.sleep-score {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+

@@ -1,0 +1,20 @@
+.tnt-graph {
+  width: 400px;
+}
+
+.linechart-cell {
+  display: grid;
+  grid-template-rows: 60px 120px;
+  grid-gap: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+}
+
+.linegraph {
+  border-color: white !important;
+}
+
+.date {
+  place-content: center;
+}
