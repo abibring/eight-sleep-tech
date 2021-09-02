@@ -91,7 +91,6 @@ export default function App() {
       )
       : 
       <div>
-        {/* <h4>Welcome To Your Sleep Health</h4> */}
         <p className="welcome">Please select a user to view their sleep results</p>
       <button className="no-data-btn" onClick={() => updateUser(fragA)}>View User A</button>
       <button className="no-data-btn" onClick={() => updateUser(fragB)}>View User B</button>
